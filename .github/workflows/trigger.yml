@@ -24,6 +24,6 @@ jobs:
       - name: Dispatch to workflows
         run: |
             curl -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer  ${{ secrets.PRFT_PAT }}" \
+            -H "Authorization: token ${{ secrets.PRFT_PAT }}" \
             --request POST \
             --data '{"event_type": "dispatch_prft" }' https://api.github.com/repos/disctrict/Punk-Rock-Family-Tree
