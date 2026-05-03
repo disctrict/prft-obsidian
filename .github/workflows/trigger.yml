@@ -17,13 +17,13 @@ on:
           - debug
 
 jobs:
-  trigger:
+  dispatch:
+    name: Dispatch
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch Event
+      - name: Dispatch to workflows
         run: |
-          curl -X POST \
-          -H "Accept: application/vnd.github+json" \
-          -H "Authorization: Bearer ${{ secrets.PRFT_PAT }}" \
-          https://github.com \
-          -d '{"event_type": "dispatch-prft" }' 
+            curl -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secrets.PRFT_PAT }}" \
+            --request POST \
+            --data '{"event_type": "dispatch_prft" }' https://api.github.com/repos/disctrict/Punk-Rock-Family-Tree
