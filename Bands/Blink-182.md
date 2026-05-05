@@ -10,4 +10,3 @@ dg-publish: true
 - [[Tom DeLonge]]
 - [[Mark Hoppus]]
 - [[Scott Raynor]]
-- 
