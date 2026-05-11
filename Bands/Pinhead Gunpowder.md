@@ -1,0 +1,24 @@
+---
+type: band
+dg-publish: true
+---
+## Biography
+Pinhead Gunpowder is an American punk rock band that formed in Arcata (East Bay area) of California, in January 1991 by of [[Aaron Cometbus]] and Jon Quittner.
+
+Cometbus wanted the name "Pinhead Gunpowder", while Quittner wanted to call it "50 Foot Hesher". Along with vocalist Doug "Douggie Grime" Rogers and bassist David "Atlas" Kimmel, the band played once at a party where Cometbus snapped his bass pedal in half in the middle of the set. Shortly after the show, Cometbus moved back to Berkeley, taking the name of the band and some of the songs with him. Quittner stayed in Arcata with the band and they changed their name to 50 Foot Hesher and acquired a new drummer. A few months later, Quittner left the band and the remaining members changed the name to "Lank".
+
+Back in Berkeley, Cometbus formed the second incarnation of Pinhead Gunpowder with [[Bill Schneider]] and Sarah Kirsch of The Skinflutes, and Billie Joe Armstrong of [[Green Day]]. In June 1991, they recorded their first EP, Tründle and Spring. It was not until April of the following year that the band played their first live show at Punks With Presses in Oakland along with Rancid and The Gr'Ups. The band then released their second EP, Fahizah. In 1993, Kirsch left the band. Rumors that the reason was differences with Armstrong's decision to sign to a major label with Green Day were debunked by the band on Damian Abraham's podcast Turned Out a Punk. Kirsch was replaced by [[Jason White]] of Chino Horde. White would later also become Green Day's touring guitarist. Shortly after, the band embarked on a week long tour of Northern California, Oregon, and Washington in the winter of 1994.
+
+Band member Sarah Kirsch died in 2012. She had been diagnosed with Fanconi anemia, a genetic disorder that can cause leukemia and other cancers.
+
+The band currently consists of Aaron Cometbus (drums, lyrics), Bill Schneider (bass), Billie Joe Armstrong (guitar, vocals) and Jason White (guitar, vocals). The band's name comes from a brand of "high octane" green tea served at the Arcata co-op that was discovered by Aaron Cometbus during one of his many dumpster diving adventures.
+
+Read [more](https://en.wikipedia.org/wiki/Pinhead_Gunpowder).
+## Members
+- [[Billie Joe Armstrong]]
+- [[Bill Schneider]]
+- [[Jason White]]
+- [[Aaron Cometbus]]
+## Past members	
+- Sarah Kirsch – guitar, vocals (1991–1994; died 2012)
+- Jon "Quitty" Quittner – guitar (1991)
