@@ -4,7 +4,6 @@ dg-publish: true
 ---
 role:: Guitar
 role:: Drums
-
 ## Biography
 Aaron Elliott (born May 20, 1968), better known as Aaron Cometbus, is an American musician, author, songwriter, roadie, and magazine editor, best known as the creator of the punk zine Cometbus.
 

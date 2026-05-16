@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3f204e9132a3708",
+            "id": "2069439522d3b71b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Bands/As Friends Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "As Friends Rust"
             }
           }
         ]
@@ -174,45 +174,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "digitalgarden:Digital Garden Publication Center": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a3f204e9132a3708",
+  "active": "2069439522d3b71b",
   "lastOpenFiles": [
-    "Musicians/James Briggs.md",
-    "Musicians/Ian Fowles.md",
-    "Musicians/Adam Deibert.md",
-    "Musicians/Scott Anna.md",
-    "Bands/Whale_Horse.md",
-    "Bands/The Lawrence Arms.md",
-    "Bands/Tuesday.md",
-    "Bands/The Honor System.md",
-    "Bands/The Falcon.md",
-    "Bands/The Broadways.md",
-    "Bands/The Aquabats.md",
-    "Bands/Slapstick.md",
-    "Musicians/Chris Carr.md",
-    "Musicians/Tyler Wiseman.md",
-    "Musicians/Buddy Shaub.md",
-    "Bands/Less Than Jake.md",
-    "Musicians/Vinnie Fiorello.md",
-    "Musicians/Roger Mangianelli.md",
-    "Musicians/Chris Demakes.md",
-    "Bands/Duvall.md",
-    "Musicians/Neil Hennessy.md",
     "Bands/Colossal.md",
-    "Bands/Blink-182.md",
+    "Bands/Samiam.md",
+    "Musicians/Bill Schneider.md",
+    "Bands/As Friends Rust.md",
+    "Bands/Against Me!.md",
+    "Bands/Rehasher.md",
+    "Bands/Rise Against.md",
+    "Musicians/Chad Darby.md",
+    "Musicians/Chris Hornbrook.md",
+    "Musicians/Chris DeMakes.md",
     "Bands/Alkaline Trio.md",
-    "Musicians/Pat Ford.md",
-    "Musicians/Derek Grant.md",
+    "Musicians/Victor Indrizzo.md",
+    "Musicians/Vinnie Fiorello.md",
+    "Musicians/Jeronimo Gomez.md",
+    "Musicians/Gui Amador.md",
+    "Musicians/Gianluca Panero.md",
+    "Musicians/Ian Fowles.md",
+    "Musicians/James Briggs.md",
+    "Musicians/Jake Crown.md",
+    "Musicians/Ilan Rubin.md",
+    "Musicians/Andrew Seward.md",
+    "Musicians/Alex Klausner.md",
+    "Musicians/Joseph Simmons.md",
+    "Musicians/Ben Foster.md",
+    "Bands/Less Than Jake.md",
+    "Bands/New Found Glory.md",
     "content/Albums"
   ]
 }
