@@ -4,12 +4,12 @@ Disctrict is a platform for the exploration of music, products, technology, and 
 Founded by two technology and product specialists with a passion for punk rock and art in general, Disctrict explores themes of creativity through a punk rock lens; our goal is to celebrate diversity of perspective and identify the characteristics that make for truly great product design.
 
 # This Repository
-This is the home of the data powering the central disctrict graph as presented on [https://www.disctrict.com](Disctrict.com)
-The content is organized and edited using [https://www.obsidian.md](Obsidian) to promote a low barrier to entry.
+This is the home of the data powering the central disctrict graph as presented on [Disctrict.com](https://www.disctrict.com)
+The content is organized and edited using [Obsidian](https://www.obsidian.md) to promote a low barrier to entry.
 ## Getting Started
 ### Basic Workflow
 Do you have something to edit or contribute? Excellent! Here are the basic steps:
-  1. Download and install [Https://www.obsidian.md](Obsidian)
+  1. Download and install [Obsidian](https://www.obsidian.md)
   2. Clone this repository
   3. Open the cloned folder with Obsidian (open target directory)
   4. Edit or add files according to the folder structure
@@ -17,7 +17,7 @@ Do you have something to edit or contribute? Excellent! Here are the basic steps
   6. Commit your changes and issue a pull request
 
 ### Considerations
-The data in this repository will ultimately be converted into a digital-garden via [https://quartz.jzhao.xyz/](Quartz 4) so it is highly likely that any local Obsidian plugins will be respected in the Quartz deployment.
+The data in this repository will ultimately be converted into a digital-garden via [Quartz 4](https://quartz.jzhao.xyz/) so it is highly likely that any local Obsidian plugins will be respected in the Quartz deployment.
 
 ### Disctrict Specific Markup
 To be documented
