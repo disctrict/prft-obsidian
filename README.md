@@ -17,7 +17,7 @@ Do you have something to edit or contribute? Excellent! Here are the basic steps
   6. Commit your changes and issue a pull request
 
 ### Considerations
-The data in this repository will ultimately be converted into a digital-garden via [Quartz 4](https://quartz.jzhao.xyz/) so it is highly likely that any local Obsidian plugins will be respected in the Quartz deployment.
+The data in this repository will ultimately be converted into a digital-garden via [Quartz 4](https://quartz.jzhao.xyz/) so it is highly likely that any local Obsidian plugins will not be respected in the Quartz deployment.
 
 ### Disctrict Specific Markup
 To be documented
