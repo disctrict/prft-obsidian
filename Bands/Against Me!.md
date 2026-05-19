@@ -10,14 +10,20 @@ In 2012, Grace publicly came out as a trans woman. After a long period of line-u
 Following the release of Shape Shift with Me, longtime bassist Andrew Seward rejoined the group in 2018. Though the group intended to record a new album, plans were derailed by the COVID-19 pandemic. The band entered an indefinite hiatus and Grace launched a solo career.
 
 Read [more](https://en.wikipedia.org/wiki/Against_Me!).
-## Members
-- Laura Jane Grace
-- Kevin Mahon
-- James Bowman
-- Dustin Fridkin
-- Warren Oakes
-- [[Andrew Seward]]
-- [[George Rebelo]]
-- Jay Weinberg
-- Atom Willard
-- Inge Johansson
+
+> [!members] Members
+> - Laura Jane Grace
+> - Kevin Mahon
+> - James Bowman
+> - Dustin Fridkin
+> - Warren Oakes
+> - [[Andrew Seward]]
+> - [[George Rebelo]]
+> - Jay Weinberg
+> - Atom Willard
+> - Inge Johansson
+
+> [!pastmembers] Past Members
+
+> [!Touring Members]
+

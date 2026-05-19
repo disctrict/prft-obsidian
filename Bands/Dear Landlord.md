@@ -7,8 +7,9 @@ Dear Landlord are a punk rock band from Carbondale, Illinois. Bordering on super
 
 In 2007, Dear Landlord released split singles with both Chinese Telephones and Off With Their Heads. Their 2009 No Idea Records release "Dream Homes" is reminiscent of holding a conch shell up to your ear to hear the ocean, if that conch shell was an empty 40 oz. bottle found surveying the remnants of last nights' blackout.
 
-## Members
-- [[Adam Fletcher]]
-- [[Brett Hunter]]
-- [[Brad Lokkesmoe]]
-- [[Zack Gontard]]
+
+> [!members] Members
+>- [[Adam Fletcher]]
+>- [[Brett Hunter]]
+>- [[Brad Lokkesmoe]]
+>- [[Zack Gontard]]

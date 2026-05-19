@@ -9,6 +9,6 @@ The instrumentation was deliberately simple, just Holoien on bass and Henry on d
 
 Read [more](https://en.wikipedia.org/wiki/The_Awesome_Snakes)
 
-## Members
-- [[Annie Holoien]]
-- [[Danny Henry]]
+> [!members] Members
+> -  [[Annie Holoien]]
+> -  [[Danny Henry]]

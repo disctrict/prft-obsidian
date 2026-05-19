@@ -14,11 +14,12 @@ Band member Sarah Kirsch died in 2012. She had been diagnosed with Fanconi anemi
 The band currently consists of Aaron Cometbus (drums, lyrics), Bill Schneider (bass), Billie Joe Armstrong (guitar, vocals) and Jason White (guitar, vocals). The band's name comes from a brand of "high octane" green tea served at the Arcata co-op that was discovered by Aaron Cometbus during one of his many dumpster diving adventures.
 
 Read [more](https://en.wikipedia.org/wiki/Pinhead_Gunpowder).
-## Members
-- [[Billie Joe Armstrong]]
-- [[Bill Schneider]]
-- [[Jason White]]
-- [[Aaron Cometbus]]
-## Past members	
-- Sarah Kirsch – guitar, vocals (1991–1994; died 2012)
-- Jon "Quitty" Quittner – guitar (1991)
+> [!members] Members
+> -  [[Billie Joe Armstrong]]
+> -  [[Bill Schneider]]
+> -  [[Jason White]]
+> -  [[Aaron Cometbus]]
+
+> [!pastmembers] Past Members	
+> -  Sarah Kirsch – guitar, vocals (1991–1994; died 2012)
+> -  Jon "Quitty" Quittner – guitar (1991)

@@ -10,17 +10,19 @@ The band's musical style initially blended elements of punk rock, ska, and hardc
 The Suicide Machines gained recognition within the punk and ska scenes through extensive touring, including multiple performances on the Warped Tour, Riot Fest and for many years their annual hometown Black Christmas festivals.
 
 Read [more](https://en.wikipedia.org/wiki/The_Suicide_Machines).
-## Members
-- Jason Navarro
-- Ryan Vandeberghe
-- Rich Tschirhart
-- Justin Malek
-## Past members
-- Jason Brake
-- Dan Lukacinsky
-- Stefan Rairigh
-- Bill Jennings
-- [[Derek Grant]]
-- Dave Smith
-- Royce Nunley
-- Erin Pitman
+> [!members] Members
+> -  Jason Navarro
+> -  Ryan Vandeberghe
+> -  Rich Tschirhart
+> -  Justin Malek
+
+> [!pastmembers] Past Members
+> -  Jason Brake
+> -  Dan Lukacinsky
+> -  Stefan Rairigh
+> -  Bill Jennings
+> -  [[Derek Grant]]
+> -  Dave Smith
+> -  Royce Nunley
+> -  Erin Pitman
+

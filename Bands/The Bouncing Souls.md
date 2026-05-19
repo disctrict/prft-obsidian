@@ -10,11 +10,13 @@ New Brunswick had a reputation for supporting underground music, and over the ye
 On 25 June 2013, the Bouncing Souls confirmed that drummer Michael McDermott would be leaving the band to join Joan Jett & the Blackhearts. In September [[George Rebelo]] of Hot Water Music and Against Me! officially joined the band as the new drummer.
 
 Read [more](https://en.wikipedia.org/wiki/The_Bouncing_Souls).
-## Members
-- Greg Attonito
-- Pete Steinkopf
-- Bryan Kienlen
-- [[George Rebelo]]
-## Past members
-- Shal Khichi
-- Michael McDermott
+
+> [!members] Members
+> -  Greg Attonito
+> -  Pete Steinkopf
+> -  Bryan Kienlen
+> -  [[George Rebelo]]
+
+> [!pastmembers] Past Members
+> -  Shal Khichi
+> -  Michael McDermott

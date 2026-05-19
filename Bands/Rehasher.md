@@ -8,12 +8,13 @@ Rehasher is a punk rock band based in Gainesville, Florida, signed to No Idea Re
 Rehasher's third album Make the Noise was released on July 10, 2015. Following the release of Make the Noise, the band added bassist [[Tony Farah]], and drummer [[Alex Klausner]] to resume touring. Work on new recordings began in late 2017. In 2021 the band released a covers album.
 
 Read [more](https://en.wikipedia.org/wiki/Rehasher).
-## Members
-- [[Roger Manganelli]]
-- Richard Klinghoffer
-- [[Tony Farah]]
-- [[Alex Klausner]]
-## Past members
-- [[Ryan Geis]]
-- [[Gui Amador]]
-- [[Jake Crown]]
+> [!members] Members
+> -  [[Roger Manganelli]]
+> -  Richard Klinghoffer
+> -  [[Tony Farah]]
+> -  [[Alex Klausner]]
+
+> [!pastmembers] Past Members
+> -  [[Ryan Geis]]
+> -  [[Gui Amador]]
+> -  [[Jake Crown]]

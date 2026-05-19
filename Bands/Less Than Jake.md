@@ -14,16 +14,18 @@ In February 2017, the band released Sound the Alarm, an EP which became their fi
 The band's style combines ska, punk rock and power pop. They are known for their humor and fondness of Pez candy.
 
 Read [more](https://en.wikipedia.org/wiki/Less_Than_Jake).
-## Members
-- [[Chris DeMakes]]
-- [[Roger Manganelli]]
-- [[Buddy Schaub]]
-- [[Peter Wasilewski]]
-- [[Matt Yonker]]
-## Past members
-- [[Vinnie Fiorello]]
-- Shaun Grief
-- [[Jessica Mills]]
-- [[Derron Nuhfer]]
-- Lars "Slim" Nylander
-- [[Pete Anna]]
+
+> [!members] Members
+>- [[Chris DeMakes]]
+>- [[Roger Manganelli]]
+>- [[Buddy Schaub]]
+>- [[Peter Wasilewski]]
+>- [[Matt Yonker]]
+
+> [!pastmembers] Past Members
+>- [[Vinnie Fiorello]]
+>- Shaun Grief
+>- [[Jessica Mills]]
+>- [[Derron Nuhfer]]
+>- Lars "Slim" Nylander
+>- [[Pete Anna]]

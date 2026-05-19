@@ -12,17 +12,19 @@ The Methadones reunited for a few songs during a performance of Dan Vapid and th
 Currently the band has been making some sporadic appearances since 2020.
 
 Read [more](https://en.wikipedia.org/wiki/The_Methadones).
-## Members
-- [[Dan Schafer]]
-- [[Simon Lamb]]
-- [[Sensitive Pete]]
-- [[Mike Soucy]]
-## Past members
-- Mike Byrne
-- Pat Buckley
-- [[Dan Sullivan]]
-- B-Face
-- [[Dan Lumley]]
-- Matt Drastic
-- Ken Fused
-- [[Joe Principe]]
+> [!members] Members
+> -  [[Dan Schafer]]
+> -  [[Simon Lamb]]
+> -  [[Sensitive Pete]]
+> -  [[Mike Soucy]]
+
+> [!pastmembers] Past Members
+> -  Mike Byrne
+> -  Pat Buckley
+> -  [[Dan Sullivan]]
+> -  B-Face
+> -  [[Dan Lumley]]
+> -  Matt Drastic
+> -  Ken Fused
+> -  [[Joe Principe]]
+

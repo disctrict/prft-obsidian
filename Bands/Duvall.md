@@ -7,10 +7,12 @@ Josh Caterer formed Duvall in August 2001 with Tom McDougal and the drummer for 
 
 Read [more](https://chicagomusic.fandom.com/wiki/Duvall)
 
-## Members
-- [[Josh Caterer]]
-- [[Rob Kellenberger]]
-- [[Eli Caterer]] (Former)
-- [[John Sewell]] (Former)
-- [[Mike Felumlee]] (Former)
-- [[Neil Hennessy]] (Former)
+> [!members] Members
+>- [[Josh Caterer]]
+>- [[Rob Kellenberger]]
+
+> [!pastmembers] Past Members
+>- [[Eli Caterer]]
+>- [[John Sewell]]
+>- [[Mike Felumlee]]
+>- [[Neil Hennessy]]

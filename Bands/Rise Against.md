@@ -10,14 +10,15 @@ The band spent its first four years signed to the independent record label Fat W
 With the release of Appeal to Reason (2008), Rise Against's music shifted toward a more accessible and radio-friendly sound, with greater emphasis on production value. The album's third single, "Savior", broke the record for the most consecutive weeks spent on both the Hot Rock Songs and Alternative Songs charts. Rise Against's popularity grew with the release of Endgame (2011), which peaked at number two on the Billboard 200, and charted highly worldwide. The band's seventh and eighth albums, The Black Market (2014) and Wolves (2017), continued the trend of commercial success, and both peaked with the top ten on the Billboard 200, while their ninth album, Nowhere Generation (2021) failed to do the same. The band's tenth album, Ricochet, released on August 15, 2025.
 
 Rise Against is also known for their advocacy of progressivism, supporting organizations such as Amnesty International and the It Gets Better Project. The band actively promotes animal rights and most of the members are straight edge, PETA supporters and vegans.
-## Members
-- [[Tim McIlrath]]
-- [[Joe Principe]]
-- Brandon Barnes
-- Zach Blair
-## Past members	
-- Dan Wleklinski
-- Kevin White
-- Todd Mohney
-- Chris Chasse
-- Tony Tintari
+> [!members] Members
+> -  [[Tim McIlrath]]
+> -  [[Joe Principe]]
+> -  Brandon Barnes
+> -  Zach Blair
+
+> [!pastmembers] Past Members
+> -  Dan Wleklinski
+> -  Kevin White
+> -  Todd Mohney
+> -  Chris Chasse
+> -  Tony Tintari

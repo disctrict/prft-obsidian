@@ -20,13 +20,15 @@ In June 2014, Matt Wachter left the band to concentrate on his family and was re
 DeLonge's return to Blink-182 was announced in October 2022, with Angels & Airwaves being on hold since.
 
 Read [more](https://en.wikipedia.org/wiki/Angels_%26_Airwaves).
-## Members
-- [[Tom DeLonge]]
-- [[David Kennedy]]
-- [[Ilan Rubin]]
-- Matt Rubano
-## Past members	
-- [[Atom Willard]]
-- Ryan Sinn
-- Matt Wachter
-- Eddie Breckenridge
+
+> [!members] Members
+> - [[Tom DeLonge]]
+> - [[David Kennedy]]
+> - [[Ilan Rubin]]
+> - Matt Rubano
+
+> [!pastmembers] Past Members
+> - [[Atom Willard]]
+> - Ryan Sinn
+> - Matt Wachter
+> - Eddie Breckenridge

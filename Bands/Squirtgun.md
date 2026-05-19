@@ -14,14 +14,15 @@ Mass and Dan joined [[Screeching Weasel]], recording the albums Major Label Debu
 In the summer of 2001, Squirtgun regrouped and began work on the album Fade To Bright, for Honest Don's Records. Fade To Bright was released in Summer 2003, supported by a US tour. In the Fall of 2003, legendary punk rock drummer [[Mike Felumlee]] ([[Smoking Popes]], [[Alkaline Trio]]) replaced Dan on drums, and Squirtgun hit the road with The Ataris, Hopesfall, and Planes Mistaken for Stars. Also, in 2003 Squirtgun recorded "Make it wreck", a song with the contribution of the vocalist of Anti-Flag, Geovanny Duran (the vocalist of El Guato, a ska/punk Costa Rican band), and two more important punk rockers. 
 
 Read [more](https://en.wikipedia.org/wiki/Squirtgun).
-## Members
-- [[Zac Damon]]
-- [[Mass Giorgini]]
-- Kevin Sierzega - vocals (2001–2004, 2008–present)
-- [[Dan Sullivan]]
-## Past members
-- Matt Hart - lead vocals, guitar (1993–1998)
-- [[Flav Giorgini]] - guitar (1993–1998)
-- [[Matt Leonard]] - lead vocals, guitar (1996–1998)
-- [[Dan Lumley]] - drums (1993–1998)
-- [[Mike Felumlee]] - drums (2001–2004, 2008–2016)
+> [!members] Members
+> -  [[Zac Damon]]
+> -  [[Mass Giorgini]]
+> -  Kevin Sierzega - vocals (2001–2004, 2008–present)
+> -  [[Dan Sullivan]]
+
+> [!pastmembers] Past Members
+> -  Matt Hart - lead vocals, guitar (1993–1998)
+> -  [[Flav Giorgini]] - guitar (1993–1998)
+> -  [[Matt Leonard]] - lead vocals, guitar (1996–1998)
+> -  [[Dan Lumley]] - drums (1993–1998)
+> -  [[Mike Felumlee]] - drums (2001–2004, 2008–2016)

@@ -5,5 +5,4 @@ dg-publish: true
 ## Biography
 
 
-## Members
-- 
+> [!members] Members

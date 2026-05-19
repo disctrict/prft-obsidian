@@ -7,13 +7,13 @@ The Alkaline Trio came together in 1996, one of the bands part of the [Slapst
 
 Read [more](https://punkdatabase.com/wiki/Alkaline_Trio)
 
-## Members
-- [[Matt Skiba]]
-- [[Dan Andriano]]
-- Tosh Peterson
-## Past members	
-- Rob Doran
-- Glenn Porter
-- [[Mike Felumlee]]
-- [[Derek Grant]]
-- [[Atom Willard]]
+> [!members] Members
+> -  [[Matt Skiba]]
+> -  [[Dan Andriano]]
+> -  Tosh Peterson
+> [!Past Members]	
+> -  Rob Doran
+> -  Glenn Porter
+> -  [[Mike Felumlee]]
+> -  [[Derek Grant]]
+> -  [[Atom Willard]]

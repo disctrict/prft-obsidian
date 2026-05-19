@@ -12,14 +12,16 @@ Inner tensions caused line-up changes in 2000, culminating with Glayat, Kirkpatr
 As Friends Rust reunited in March 2008, with Moyal, Kirkpatrick, Stewart, Simmons, and Glayat reprising the 1998–2000 line-up. The band embarked on a European and British tour in 2008, followed by a Japanese tour in 2014. As Friends Rust has since performed a series of American and European festival dates in 2015 and 2019, supporting its compilation albums Greatest Hits? and The Porch Days: 1998 to 2000. In 2019, Stewart was dismissed; the band has since been without a permanent bass guitarist. In 2020, As Friends Rust released the EP, Up from the Muck, through Unity Worldwide Records and Stick to the Core Records, containing its first-recorded material in eighteen years. The band's second full-length album, Any Joy, was released via End Hits Records in 2023. The material features contribution by bass guitarist Andrew Seward, who also accompanied the band during its European tour promoting the release. 2024 saw the band release another EP, Lightless, which coincided with another European tour.
 
 Read [more](https://en.wikipedia.org/wiki/As_Friends_Rust).
-## Members
-- [[Damien Moyal]]
-- [[Timothy Kirkpatrick]]
-- [[Joseph Simmons]]
-- James Glayat
-- [[Andrew Seward]]
-## Past members
-- [[Jason Black]]
-- [[Jeronimo Gomez]]
-- [[Gui Amador]]
-- [[Chad Darby]]
+
+> [!members] Members
+> - [[Damien Moyal]]
+> - [[Timothy Kirkpatrick]]
+> - [[Joseph Simmons]]
+> - James Glayat
+> - [[Andrew Seward]]
+
+> [!pastmembers] Past Members
+> - [[Jason Black]]
+> - [[Jeronimo Gomez]]
+> - [[Gui Amador]]
+> - [[Chad Darby]]

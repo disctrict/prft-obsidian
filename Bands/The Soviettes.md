@@ -13,12 +13,12 @@ In 2006 the band went on hiatus indefinitely. Annie and Danny have continued pla
 
 Read [more](https://en.wikipedia.org/wiki/The_Soviettes)
 
-## Members
-- [[Annie Holoien]]
-- Susy Sharp
-- [[Maren Macosko]]
-- [[Danny Henry]]
+> [!members] Members
+> -  [[Annie Holoien]]
+> -  Susy Sharp
+> -  [[Maren Macosko]]
+> -  [[Danny Henry]]
 
-## Past members
-- Lane Pederson
-- [[Mikey Yannich]]
+> [!pastmembers] Past Members
+> -  Lane Pederson
+> -  [[Mikey Yannich]]

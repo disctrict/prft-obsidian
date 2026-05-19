@@ -10,28 +10,30 @@ In February 2010, it was announced that Off With Their Heads signed to [Epitaph
 After Ryan Young suffered a nervous breakdown, the band dropped off of a Canadian Tour with [The Flatliners](https://en.wikipedia.org/wiki/The_Flatliners "The Flatliners") in late 2013. The band took extended time from touring and only played sporadic shows over the course of 2014, later returning to the road in 2015.
 
 Read [more](https://en.wikipedia.org/wiki/Off_with_Their_Heads_(band))
-## Members
-- [[Ryan Young]]
-- Kyle Manning
-- [[Kevin Rotter]]
-## Past members
-- John Polydoros
-- Robbie Smartwood
-- Erik Siljander
-- Paddy Costello
-- Alex Ulloa
-- [[Nate Gangelhoff]]
-- [[Zack Gontard]]
-- Mike Rose
-- Dan Jensen
-- Josh Jordan
-- Dave Strait
-- Jim Domenici
-- Paul Anderson
-- Mark Borders
-- Ryan Fisher
-- Steve Port
-- Mario Bourzac
-- [[Mike Yannich]]
-- Justin Francis
-- Trent Langill
+
+> [!members] Members
+> -  [[Ryan Young]]
+> -  Kyle Manning
+> -  [[Kevin Rotter]]
+
+> [!pastmembers] Past Members
+> -  John Polydoros
+> -  Robbie Smartwood
+> -  Erik Siljander
+> -  Paddy Costello
+> -  Alex Ulloa
+> -  [[Nate Gangelhoff]]
+> -  [[Zack Gontard]]
+> -  Mike Rose
+> -  Dan Jensen
+> -  Josh Jordan
+> -  Dave Strait
+> -  Jim Domenici
+> -  Paul Anderson
+> -  Mark Borders
+> -  Ryan Fisher
+> -  Steve Port
+> -  Mario Bourzac
+> -  [[Mike Yannich]]
+> -  Justin Francis
+> -  Trent Langill

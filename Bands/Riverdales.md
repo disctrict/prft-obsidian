@@ -16,12 +16,13 @@ In March 2011, Ben Weasel was involved in an altercation with two female audienc
 In the aftermath of this, former members Dan Vapid and Simon Lamb started a solo project called [[Dan Vapid and the Cheats]] with whom Vapid will be singing his Riverdales songs.
 
 Read [more](https://en.wikipedia.org/wiki/Riverdales).
-## Members
-- [[Ben Foster]]
-- [[Dan Schafer]]
-- Drew Fredrichsen
-- Adam Cargin
-- [[Dan Sullivan]]
-- [[Dan Lumley]]
-- [[Simon Lamb]]
-- Justin Perkins
+
+> [!members] Members
+> -  [[Ben Foster]]
+> -  [[Dan Schafer]]
+> -  Drew Fredrichsen
+> -  Adam Cargin
+> -  [[Dan Sullivan]]
+> -  [[Dan Lumley]]
+> -  [[Simon Lamb]]
+> -  Justin Perkins

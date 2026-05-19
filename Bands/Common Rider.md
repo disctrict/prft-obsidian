@@ -14,7 +14,8 @@ The band broke up in 2003. In 2005, bassist and producer Mass Giorgini went to A
 Michaels has continued to perform sporadically and to produce art. In late 2008, Michaels emerged with a new band named Classics of Love, after the Common Rider song.
 
 Read [more](https://en.wikipedia.org/wiki/Common_Rider).
-## Members
-- [[Jesse Michaels]]
-- [[Mass Giorgini]]
-- [[Dan Lumley]]
+
+> [!members] Members
+> - [[Jesse Michaels]]
+> - [[Mass Giorgini]]
+> - [[Dan Lumley]]

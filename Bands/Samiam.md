@@ -20,12 +20,13 @@ Samiam released Trips, their first album in five years, on September 6, 2011. Se
 In December 2019, Samiam announced on their Facebook page that they are working on their first studio album in eight years. The album, Stowaway, would be released in 2023, and featured guest vocals by Hot Water Music and the Draft singer [[Chris Wollard]] on multiple tracks.
 
 Read [more](https://en.wikipedia.org/wiki/Samiam).
-## Members
-- Jason Beebout
-- Sergie Loobkoff
-- Colin Brooks
-- Sean Kennerly
-- [[Chad Darby]]
-## Past members
-- [[Tré Cool]]
-- [[Victor Indrizzo]]
+> [!members] Members
+> -  Jason Beebout
+> -  Sergie Loobkoff
+> -  Colin Brooks
+> -  Sean Kennerly
+> -  [[Chad Darby]]
+
+> [!pastmembers] Past Members
+> -  [[Tré Cool]]
+> -  [[Victor Indrizzo]]

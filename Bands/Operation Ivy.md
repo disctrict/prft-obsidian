@@ -10,8 +10,8 @@ The band consisted of [[Jesse Michaels]] (lead vocals), [[Tim Armstrong]] (guita
 Operation Ivy's first live performance was on May 27, 1987, in Dave Mello's garage. The next day began a tradition of performances at the Berkeley punk collective center 924 Gilman Street. Operation Ivy began playing a number of performances which led to its almost immediate cult-following.
 
 Read [more](https://en.wikipedia.org/wiki/Operation_Ivy_(band)).
-## Members
-- [[Jesse Michaels]]
-- [[Tim Armstrong]]
-- [[Matt Freeman]]
-- [[Dave Mello]]
+> [!members] Members
+> -  [[Jesse Michaels]]
+> -  [[Tim Armstrong]]
+> -  [[Matt Freeman]]
+> -  [[Dave Mello]]

@@ -10,14 +10,16 @@ Before taking its current name in 1989, the band was named Sweet Children. They 
 In 2010, a stage adaptation of American Idiot debuted on Broadway. The musical was nominated for three Tony Awards: Best Musical, Best Scenic Design, and Best Lighting Design, winning the latter two. The band was inducted into the Rock and Roll Hall of Fame in 2015, their first year of eligibility. Members of the band have collaborated on the side projects Pinhead Gunpowder, the Network, Foxboro Hot Tubs, the Longshot, and the Coverups. They have also worked on solo careers.
 
 Read [more](https://en.wikipedia.org/wiki/Green_Day).
-## Members
-- [[Billie Joe Armstrong]]
-- [[Mike Dirnt]]
-- [[Tré Cool]]
-- [[Jason White]] - Touring guitar since 1999
-## Past members	
-- Raj Punjabi
-- Sean Hughes
-- John Kiffmeyer
-- [[Jeff Matika]] - Touring guitar (2009 - 2019)
-- [[Aaron Cometbus]] 1990
+
+> [!members] Members
+>- [[Billie Joe Armstrong]]
+>- [[Mike Dirnt]]
+>- [[Tré Cool]]
+>- [[Jason White]] - Touring guitar since 1999
+
+>[!pastmembers] Past Members
+>- Raj Punjabi
+>- Sean Hughes
+>- John Kiffmeyer
+>- [[Jeff Matika]] - Touring guitar (2009 - 2019)
+>- [[Aaron Cometbus]] 1990

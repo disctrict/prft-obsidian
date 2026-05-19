@@ -8,34 +8,35 @@ Screeching Weasel is an American punk rock band consisting of [[Ben Foster]] (vo
 Screeching Weasel has recorded 14 studio albums so far, splitting time between a number of famous independent record labels such as Lookout! Records and Fat Wreck Chords. Despite never achieving mainstream success, a number of largely popular acts cite them as influential.
 
 Read [more](https://en.wikipedia.org/wiki/Screeching_Weasel).
-## Members
-- [[Ben Foster]]
-- [[Gianluca Panero]]
-- Mike Hunchback
-- Pierre Marche
-- Zach "Poutine" Brandner
-## Past members
-- [[John Pierson]]
-- Vinnie Bovine
-- Steve Cheese
-- Warren Fish
-- [[Aaron Cometbus]]
-- Brian Vermin
-- Douglas Ward
-- Dave Naked
-- Scott "Gub" Conway
-- [[Dan Sullivan]]
-- Johhny Personality
-- [[Mike Dirnt]]
-- [[Mass Giorgini]]
-- [[Dan Lumley]]
-- Phillip Hill
-- [[Simon Lamb]]
-- [[Dan Schafer]]
-- Drew Fredrichsen
-- Justin Perkins
-- Adam Cargin
-- Dave Klein
-- [[Zac Damon]]
-- Trevor Jackson
-- Mike Kennerty
+> [!members] Members
+> -  [[Ben Foster]]
+> -  [[Gianluca Panero]]
+> -  Mike Hunchback
+> -  Pierre Marche
+> -  Zach "Poutine" Brandner
+
+> [!pastmembers] Past Members
+> -  [[John Pierson]]
+> -  Vinnie Bovine
+> -  Steve Cheese
+> -  Warren Fish
+> -  [[Aaron Cometbus]]
+> -  Brian Vermin
+> -  Douglas Ward
+> -  Dave Naked
+> -  Scott "Gub" Conway
+> -  [[Dan Sullivan]]
+> -  Johhny Personality
+> -  [[Mike Dirnt]]
+> -  [[Mass Giorgini]]
+> -  [[Dan Lumley]]
+> -  Phillip Hill
+> -  [[Simon Lamb]]
+> -  [[Dan Schafer]]
+> -  Drew Fredrichsen
+> -  Justin Perkins
+> -  Adam Cargin
+> -  Dave Klein
+> -  [[Zac Damon]]
+> -  Trevor Jackson
+> -  Mike Kennerty

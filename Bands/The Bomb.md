@@ -8,12 +8,13 @@ The Bomb started in 1999, formed by [[Jeff Pezzati]] of [[Naked Raygun]]. Despit
 Not to be confused with the earlier San Francisco band, Bomb (1986-1993).
 
 Read [more](https://en.wikipedia.org/wiki/The_Bomb_(band)).
-## Members
-- [[Jeff Pezzati]]
-- [[Jeff Dean]]
-- [[Sensitive Pete]]
-- [[Mike Soucy]]
-## Past members
-- John Maxwell
-- Paul Garcia
-- Steev Custer
+> [!members] Members
+> -  [[Jeff Pezzati]]
+> -  [[Jeff Dean]]
+> -  [[Sensitive Pete]]
+> -  [[Mike Soucy]]
+
+> [!pastmembers] Past Members
+> -  John Maxwell
+> -  Paul Garcia
+> -  Steev Custer

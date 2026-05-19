@@ -17,11 +17,13 @@ Drawing inspiration from acts like Alkaline Trio, The Lawrence Arms, Jawbreaker,
 
 Read [more](https://en.wikipedia.org/wiki/Banner_Pilot)
 
-## Members
-- [[Nate Gangelhoff]]
-- [[Nick Johnson]]
-- Danny Elston-Jones
-- [[Jeff Matika]]
-## Past Members
-- Corey Ayd (2008–2014)
-- Mike Johnson - Lead Guitar (2005–2008)
+> [!members] Members
+> - [[Nate Gangelhoff]]
+> - [[Nick Johnson]]
+> - [[Danny Elston-Jones]]
+> - [[Jeff Matika]]
+
+
+> [!pastmembers] Past Members
+> - [[Corey Ayd]] (2008–2014)
+> - [[Mike Johnson]] - Lead Guitar (2005–2008)

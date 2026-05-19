@@ -12,12 +12,15 @@ Mike Byrne left the band before their appearance at Riot Fest in September, 2012
 Rick Uncapher and Mike Soucy were replaced by Dillon Dunnagan and Gabe Usery by the time the band released its third album Three in March 2019. The band released its fourth album Escape Velocity in November 2021.
 
 Read [more](https://en.wikipedia.org/wiki/Dan_Vapid_and_the_Cheats).
-## Members
-- [[Dan Schafer]]
-- [[Simon Lamb]]
-- Dillon Dunnagan
-- Gabe Usery
-Past members
-- Mike Byrne
-- Rick Uncapher
-- Mike Soucy
+
+> [!members] Members
+>- [[Dan Schafer]]
+>- [[Simon Lamb]]
+>- [[Dillon Dunnagan]]
+>- [[Gabe Usery]]
+
+> [!pastmembers] Past Members
+> - [[Mike Byrne]]
+> - [[Rick Uncapher]]
+> - [[Mike Soucy]]
+

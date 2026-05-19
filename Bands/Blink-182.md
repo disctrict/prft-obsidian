@@ -12,10 +12,12 @@ After years of independent recording and touring, including stints on the Warped
 Hoppus is the only member to remain in the band throughout its history. DeLonge left the group twice, a decade apart, before returning again. Founding drummer [[Scott Raynor]] recorded and toured with the group before being dismissed in 1998 and replaced by Barker. During DeLonge's absence from 2015 to 2022, the band included Alkaline Trio singer and guitarist [[Matt Skiba]], with whom it recorded two albums, California (2016), and Nine (2019), and toured in support of both. Following DeLonge’s return to the band in 2022, their ninth album, One More Time..., was released on October 20, 2023.
 
 Read [more](https://en.wikipedia.org/wiki/Blink-182).
-## Members
-- [[Mark Hoppus]]
-- [[Tom DeLonge]]
-- [[Travis Barker]]
-## Past members
-- Scott Raynor – drums (1992–1998)
-- [[Matt Skiba]] – guitars, vocals (2015–2022; touring member 2015; occasional guest 2025)
+
+> [!members] Members
+> - [[Mark Hoppus]]
+> - [[Tom DeLonge]]
+> - [[Travis Barker]]
+
+> [!pastmembers] Past Members
+> - [[Scott Raynor]] – drums (1992–1998)
+> - [[Matt Skiba]] – guitars, vocals (2015–2022; touring member 2015; occasional guest 2025)

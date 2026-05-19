@@ -10,8 +10,9 @@ The band originally formed as a side project when the Soviettes and Rivethead st
 The band is named after a part of Minneapolis (around Hennepin and Washington) that was considered the heart of the city at one time.
 
 Read [more](https://en.wikipedia.org/wiki/The_Gateway_District)
-## Members
-- [[Nate Gangelhoff]]
-- [[Maren Macosko]]
-- [[Carrie Bleser]]
-- [[Brad Lokkesmoe]]
+
+> [!members] Members
+> -  [[Nate Gangelhoff]]
+> -  [[Maren Macosko]]
+> -  [[Carrie Bleser]]
+> -  [[Brad Lokkesmoe]]

@@ -12,8 +12,9 @@ Canada's Flatliners play aggressive but melodic old-school, pre-hardcore punk ro
 Touring followed the record's release and in spring 2007, the Flatliners announced their signing to California-based Fat Wreck Chords for U.S. and worldwide (except Canada) releases. The label switch marked a change in the Flatliners' sound, as they turned more distinctively pop-punk for 2007's Great Awake and 2010's Cavalcade. 2013's Dead Language saw the band honing their years of collective playing for a stripped-down and intensely powerful sound that earned them a Juno nomination in 2014. For their next release, 2015's Division of Spoils, Fat Wreck issued a two-disc compilation of the Flatliners' various 7" singles, rarities, and covers, culled from the previous ten years. 2017 saw the release of the band's fifth studio LP, Inviting Light.
 
 Read [more](https://www.allmusic.com/artist/the-flatliners-mn0000269611#biography)
-## Members
-- [[Chris Cresswell]]
-- [[Scott Brigham]]
-- [[Jon Darbey]]
-- [[Paul Ramirez]]
+
+> [!members] Members
+> -  [[Chris Cresswell]]
+> -  [[Scott Brigham]]
+> -  [[Jon Darbey]]
+> -  [[Paul Ramirez]]

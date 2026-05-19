@@ -10,13 +10,14 @@ The Smoking Popes was started as Speedstick by the 3 Caterer brothers of the Chi
 Josh became very involved in Christianity and wanted to devote his work to his faith and quit the Popes in January of 1999 and would eventually create [[Duvall]].
 
 Read [more](https://chicagomusic.fandom.com/wiki/Smoking_Popes)
-## Members
-- [[Josh Caterer]]
-- [[Eli Caterer]]
-- [[Matt Caterer]]
-- [[Neil Hennessy]]
-## Past members  
-- [[Rob Kellenberger]]
-- [[Mike Felumlee]]
-- [[Ryan Chavez]]
-- [[Tom Daily]]
+> [!members] Members
+> -  [[Josh Caterer]]
+> -  [[Eli Caterer]]
+> -  [[Matt Caterer]]
+> -  [[Neil Hennessy]]
+
+> [!pastmembers] Past Members 
+> -  [[Rob Kellenberger]]
+> -  [[Mike Felumlee]]
+> -  [[Ryan Chavez]]
+> -  [[Tom Daily]]

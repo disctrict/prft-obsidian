@@ -14,10 +14,11 @@ After suddenly breaking up in 1996, they reunited once on November 23, 1997 for 
 Despite their shortly lived existence, Slapstick acted as a segue to many bands that were to highlight the mid 90's scene into the new millennium. Their have been other various reunion shows for Riot Fest and benefits.
 
 Read [more](https://punkdatabase.com/wiki/Slapstick).
-## Members
-- [[Brendan Kelly]]
-- [[Dan Hanaway]]
-- [[Dan Andriano]]
-- [[Matt Stamps]]
-- [[Rob Kellenberger]]
-- [[Pete Anna]]
+
+> [!members] Members
+> -  [[Brendan Kelly]]
+> -  [[Dan Hanaway]]
+> -  [[Dan Andriano]]
+> -  [[Matt Stamps]]
+> -  [[Rob Kellenberger]]
+> -  [[Pete Anna]]

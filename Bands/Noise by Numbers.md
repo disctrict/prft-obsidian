@@ -14,10 +14,12 @@ Their sound has been described as reminiscent of Hüsker Dü, the Replacements, 
 The band has performed with acts such as Rise Against, Alkaline Trio, Hey Mercedes, Small Brown Bike, Banner Pilot, 88 Fingers Louie, The Bollweevils, and Bomb the Music Industry.
 
 Read [more](https://en.wikipedia.org/wiki/Noise_by_Numbers).
-## Members
-- [[Dan Schafer]]
-- [[Jeff Dean]]
-- [[Rick Uncapher]]
-- Jimmy Lucido
-## Past members
-- [[Neil Hennessy]]
+
+> [!members] Members
+> -  [[Dan Schafer]]
+> -  [[Jeff Dean]]
+> -  [[Rick Uncapher]]
+> -  Jimmy Lucido
+
+> [!pastmembers] Past Members
+> -  [[Neil Hennessy]]

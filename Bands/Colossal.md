@@ -10,12 +10,14 @@ The following months were spent writing what would become their first full-lengt
 Flaks left the band in fall 2005 and was replaced on guitar by the returning Eli Caterer. In December 2006, Caterer's band, Smoking Popes, announced their reunion, with Colossal drummer Kellenberger taking over on drums. Kellenberger left the Popes, and Caterer again left Colossal, this time to concentrate on the Popes. The band went on hiatus in 2007.
 
 Read [more](https://en.wikipedia.org/wiki/Colossal_(band)).
-## Members
-- [[Pat Ford]]
-- [[Neil Hennessy]]
-- [[Rob Kellenberger]]
-- Jason Flaks
-## Past members
-- [[Eli Caterer]]
-- Chris Perrin
-- Jeff Feucht
+> [!members] Members
+> - [[Pat Ford]]
+> - [[Neil Hennessy]]
+> - [[Rob Kellenberger]]
+> - [[Jason Flaks]]
+
+ > [!pastmembers] Past Members
+> - [[Eli Caterer]]
+> - [[Chris Perrin]]
+> - [[Jeff Feucht]]
+

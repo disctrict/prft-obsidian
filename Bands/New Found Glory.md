@@ -10,11 +10,12 @@ After forming in 1997, New Found Glory released their debut studio album Nothing
 Emerging as part of the second wave of pop punk in the late 1990s, music critics consider them a key pioneer of the genre. Often labelled the "godfathers of pop punk", AllMusic notes how their "raucous, fast-paced anthems carried them through the decades", whilst crediting them for "practically serving alongside the work of Blink-182 as the blueprint to the entire genre for the early 2000s." Rock Sound have championed their "classic sugar sweet sound", which combines "pop-punk and hardcore in one neat package." Alternative Press have praised the group for their "innovative and entirely irresistible fusion of punk melodies and hardcore breakdowns." As such, the band is considered highly influential in the development of the subgenre easycore.
 
 Read [more](https://en.wikipedia.org/wiki/New_Found_Glory).
-## Members
-- Jordan Pundik
-- Ian Grushka
-- [[Chad Gilbert]]
-- Cyrus Bolooki
-## Past members
-- Steve Klein
-- Joe Marino
+> [!members] Members
+>- Jordan Pundik
+>- Ian Grushka
+>- [[Chad Gilbert]]
+>- Cyrus Bolooki
+
+> [!pastmembers] Past Members
+>- Steve Klein
+>- Joe Marino
