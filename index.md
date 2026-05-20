@@ -9,6 +9,14 @@ Our mission is to build an interactive OSINT map connecting the punk bands we kn
 
 For example, how many hops from [[Slapstick]] to [[The Aquabats]]? Well, offhand, it appears to be [[Slapstick]] to [[Alkaline Trio]] to [[Blink-182]] to [[The Aquabats]]. Could there be fewer degrees of separation? Hopefully we will learn!
 
-## Contributing
-Do you have new information to add or details to correct? Contribute a pull request on [GitHub](https://github.com/disctrict/prft-obsidian)
+## Substack
+Supporting essays, commentary, updates, and more can be found on [Substack](https://disctrict.substack.com).
 
+<center><iframe src="https://disctrict.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe></center>
+
+## Contributing
+Like what we're doing? Have some knowledge or edits to contribute? Contribute a pull request on [GitHub](https://github.com/disctrict/prft-obsidian)
+
+Really like what we're doing? Have some spare cash? We accept that type of support as well!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81ZS7T3)
