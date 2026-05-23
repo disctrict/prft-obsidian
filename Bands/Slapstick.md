@@ -1,6 +1,6 @@
 ---
 type: band
-dg-publish: true
+location: Chicago, IL, USA
 ---
 ## Biography
 Slapstick was a seminal Chicago ska-punk band formed our of Elgin in 1993 and officially broke up in 1996 and is known for being the root of the "Slapstick Family Tree", a group of musical projects which spawned from members of Slapstick, many of which are still active. 
