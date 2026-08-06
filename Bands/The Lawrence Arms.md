@@ -1,6 +1,6 @@
 ---
 type: band
-dg-publish: true
+location: Chicago, IL, USA
 ---
 > [!members] Members
 > -  [[Chris McCaughan]]

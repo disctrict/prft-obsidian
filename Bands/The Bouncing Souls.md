@@ -1,6 +1,6 @@
 ---
 type: band
-dg-publish: true
+location: New Brunswick, NJ, USA
 ---
 ## Biography
 The Bouncing Souls are an American punk rock band from New Brunswick, New Jersey, formed in 1989. By the time of their acknowledgment by the national punk rock scene, they had reignited a "pogo" element to New Jersey punk rock by playing fast light-hearted songs, a model followed by various other local bands.
