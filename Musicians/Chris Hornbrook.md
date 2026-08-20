@@ -3,7 +3,6 @@ type: member
 dg-publish: true
 ---
 role:: Drums
-
 ## Biography
 Chris Hornbrook was born in Hollywood, Florida, to French-Canadian immigrants, Donald Hornbrook and Moisette Maltais, in the early nineteen eighties. He started playing local South Florida punk shows at the age of fifteen with his high school garage band before being asked to join a local punk band called Last Minute. He met future band member Ryan Primack as he was playing bass in the band. At seventeen Hornbrook was asked to join an early incarnation of Poison the Well in 1998. He has drummed on all six of the bands' full-length records, both EPs and performed on all the touring in support of those records. Alongside being a founding member he is also considered to be a part of the core lineup alongside guitar player Ryan Primack and vocalist Jeffrey Moreira.
 

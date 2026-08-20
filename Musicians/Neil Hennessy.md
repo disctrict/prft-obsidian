@@ -3,7 +3,6 @@ type: member
 dg-publish: true
 ---
 role:: Drums
-
 ## Biography
 Neil Kevin Hennessy (born December 12, 1978) is a musician and music producer/engineer from Chicago, Illinois.
 

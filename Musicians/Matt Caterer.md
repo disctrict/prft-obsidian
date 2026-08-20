@@ -3,7 +3,6 @@ type: member
 dg-publish: true
 ---
 role:: Bass
-
 ## Biography
 Matt Caterer is a bassist and original member of the Chicago punk rock band [[Smoking Popes]], formed in 1990 with his brothers Josh and Eli. He has been a consistent member of the band, playing on major releases such as _Born to Quit_ and _Into the Agony_.
 

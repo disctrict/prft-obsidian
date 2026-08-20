@@ -4,7 +4,6 @@ dg-publish: true
 ---
 role:: Vocals
 role: Guitar
-
 ## Biography
 Chris Wollard (born 1975) is an American singer and musician. He is best known as the vocalist and guitarist of the post-hardcore band [[Hot Water Music]], which he co-founded with co-vocalist and co-guitarist Chuck Ragan, drummer George Rebelo and bass guitarist Jason Black in October 1994. He is also the lead vocalist and guitarist in the punk rock band The Draft, and the acoustic guitarist of the acoustic-folk band Rumbleseat.
 

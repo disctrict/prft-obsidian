@@ -9,7 +9,7 @@ The group released its debut album, Pezcore, in 1995, following a series of inde
 
 In 2008, the band founded its own label, Sleep It Off Records, and released its seventh full-length album, GNV FLA. The band then stated its preference for EP releases, and independently issued Greetings from Less Than Jake (2011) and its counterpart, Seasons Greetings from Less Than Jake (2012). In late 2012, the band combined the two to create the compilation album Greetings and Salutations (2012). The band's eighth studio album, See the Light, was released on November 12, 2013.
 
-In February 2017, the band released Sound the Alarm, an EP which became their final release with founding member, drummer and lyricist [[Vinnie Fiorello]], who departed from the band the following year. Fiorello was replaced by former Teen Idols drummer Matt Yonker, who contributed to the band's ninth studio album, Silver Linings (2020). A seven-song EP, Uncharted, was released in November 2024 and produced by Bill Stevenson of Descendents and Black Flag.
+In February 2017, the band released Sound the Alarm, an EP which became their final release with founding member, drummer and lyricist [[Vinnie Fiorello]], who departed from the band the following year. Fiorello was replaced by former Teen Idols drummer Matt Yonker, who contributed to the band's ninth studio album, Silver Linings (2020). A seven-song EP, Uncharted, was released in November 2024 and produced by [[Bill Stevenson]] of Descendents and Black Flag.
 
 The band's style combines ska, punk rock and power pop. They are known for their humor and fondness of Pez candy.
 

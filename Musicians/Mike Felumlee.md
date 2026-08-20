@@ -5,8 +5,6 @@ dg-publish: true
 role:: Drums
 role:: Guitar
 role:: Vocals
-role:: Songwriter
-
 ## Biography
 Mike Felumlee is best known as the former drummer for [[Smoking Popes]]. Mike started Double Zero Records, which puts out all the new Smoking Popes material, as well as some new local acts. He has joined the [[Alkaline Trio]], after a stint with Eli in the Tom Daily band. He began playing with them in December of 1999. Mike Felumlee has been kicked out of Alkaline Trio due to "trouble with Matt Skiba while on tour".
 

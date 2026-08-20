@@ -5,7 +5,6 @@ dg-publish: true
 role:: Vocals
 role:: Guitar
 role:: Drums
-
 ## Biography
 Mikey Erg (real name Mike Yannich) (born February 7, 1980) is a punk rock drummer, guitarist, and vocalist, from New Jersey. He has played in numerous bands, most famously The Ergs!, but also Star Fucking Hipsters, The Dopamines, The Unlovables, Dirtbike Annie, Parasites, and The LLC (the house band on The Chris Gethard Show). In 2016, he released his first solo album, Tentative Decisions.
 

@@ -4,7 +4,6 @@ dg-publish: true
 ---
 role:: Vocals
 role: Guitar
-
 ## Biography
 Charles Allen Ragan (born October 30, 1974) is an American singer, songwriter, guitarist, and author. He is the guitarist and vocalist of the band [[Hot Water Music]]. Ragan has also authored a book and released a variety of solo material, including five studio albums, two soundtracks, and two live albums, among other releases.
 

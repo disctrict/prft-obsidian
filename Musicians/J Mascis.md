@@ -1,0 +1,13 @@
+---
+type: member
+dg-publish: true
+---
+role:: Guitar
+role:: Vocals
+role:: Bass
+role:: Drums
+role:: Keyboards
+## Biography
+Joseph Donald Mascis Jr. (born December 10, 1965), better known as J Mascis, is an American musician who is the singer, guitarist and main songwriter for the alternative rock band [[Dinosaur Jr.]] He has also released several albums as a solo artist and played drums and guitar on other projects. He was ranked number 74 in a Rolling Stone list of the "100 Greatest Guitarists", and number 5 in a similar list for Spin magazine in 2012.
+
+Read [more](https://en.wikipedia.org/wiki/J_Mascis).

@@ -1,0 +1,18 @@
+---
+type: member
+dg-publish: true
+---
+role:: Vocals
+role:: Guitar
+## Biography
+Franz Kenneth Stahl (born October 30, 1961) is an American musician, best known as a guitarist of the Washington, D.C. hardcore punk band [[Scream]], alongside his brother Pete. He was formerly a member of Wool from 1990 to 1996, a backing guitarist for J from 1997 to 2005, and a member of the [[Foo Fighters]] from 1997 to 1999.
+
+Franz was raised with his brother and musical collaborator Pete in Bailey's Crossroads, Virginia, which they reference by putting the letters "BXR" on Scream's albums. Their father, Arnold, was a lawyer who also managed DC rock band The Hangmen, which scored a regional hit with 1965's "What a Girl Can't Do". After learning guitar, Franz started playing in local Virginian bands with bassist Skeeter Thompson. In 1981, Franz and Thompson formed Scream in Alexandria, along with brother Pete and drummer Kent Stax.
+
+After Scream broke up in 1990, Franz and Pete formed the band Wool, releasing the album Box Set for London Records. Wool then broke up in 1996. When he visited Ray McVeigh of Zilch, Stahl met Japanese rock musician J while he was recording his first solo album and learned that the drummer was fellow DC musician Scott Garrett. With the band needing a second guitarist for an upcoming tour, Stahl successfully lobbied for the job because he liked both J's music and his personality. Stahl played in Japan as a member of J's backing band on the Pyromania Tour '97, occasionally performing lead vocals on a cover of "New Rose". He later described the tour as "total Beatlemania", with fans frequently chasing him and Garrett down streets. During the J tour, he was invited by former Scream drummer Dave Grohl to replace the Foo Fighters' original guitarist Pat Smear, who had decided to leave the band. When the tour was finished, Stahl flew in to join the Foo Fighters just two days before his debut performance with them at the Radio City Music Hall in September 1997, having just one day of rehearsal. Stahl started his Foo Fighters career with their hit "Everlong" from the band's second studio album, The Colour and the Shape.
+
+Stahl performed on the track "A320", which was featured on 1998's Godzilla: The Album, and the re-recorded version of "Walking After You", which was released as a single and included on the soundtrack for The X-Files movie. He also appeared in the music video for the Foo Fighters song "My Hero", even though he did not play on the recording. He was released from the band in 1999, before the recording of their third studio album, There Is Nothing Left to Lose, due to creative differences. Stahl was replaced by Chris Shiflett later that year. He would later say his tenure in Foo Fighters was "the best two years of my life". When J's main band Luna Sea disbanded, he resumed solo activities in January 2001 and regrouped his backing band, including Stahl. Stahl continued to play with J for the next four and a half years, until July 2005. In 2009, Franz was invited by Pete to play for Smith & Pyle, and during the tour, the brothers decided to reform Scream with Thompson and Stax.
+
+Stahl currently lives in Hollywood, California. Along with Scream, he continued gigging, writing and recording with the Boston Hardcore band [[DYS]], while also writing and composing for film and television. In 2007, he composed the title track for the film One California Day. He reunited with J on stage during the encore of the bassist's September 2, 2012 concert. In 2023, Stahl, along with the members of Scream, released their 7th studio album entitled DC Special. As of 2025, this is Screams' most recent album.
+
+Read [more](https://en.wikipedia.org/wiki/Franz_Stahl)
